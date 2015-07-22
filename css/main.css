@@ -58,7 +58,7 @@ h1.principal {
 	font-size: 3.6em;
 	font-weight: 300;
 	text-transform: none;
-	color: #000;
+	color: #fff;
 	-webkit-text-shadow: 0px 7px 8px black;
 	-moz-text-shadow: 0px 7px 8px black;
 }
@@ -222,7 +222,7 @@ section#principal img{
 
 section#principal{
 	height: 500px;
-	background-image: url("../img/mexico.jpg");
+	background-image: url("../img/topbg.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
